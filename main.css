@@ -4,8 +4,10 @@
     background: blue;
     border: 1px gray;
     margin: 5px;
+    float: left;
 }
 .box{
     width: 100%;
     background: green;
+
 }
